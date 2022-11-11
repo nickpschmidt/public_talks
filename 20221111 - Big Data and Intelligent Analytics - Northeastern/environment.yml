@@ -1,9 +1,0 @@
-name: northeastern
-channels:
-  - defaults
-dependencies:
-  - python=3.9
-  - pip
-  - pip:
-    - PiML==0.4.0
-    - solas-ai==0.2.4
